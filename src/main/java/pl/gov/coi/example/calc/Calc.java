@@ -8,7 +8,7 @@ public class Calc {
 
     public int add(int a, int b) {
         if(a > 6 && b <= 0){
-            return 42;
+            return 44;
         }
         return a + b;
     }
